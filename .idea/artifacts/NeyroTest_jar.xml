@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NeyroTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NeyroTest_jar</output-path>
+    <root id="archive" name="NeyroTest.jar">
+      <element id="module-output" name="NeyroTest" />
+    </root>
+  </artifact>
+</component>
